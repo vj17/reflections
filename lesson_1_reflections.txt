@@ -1,25 +1,25 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
-1. Reduced number of lines of code
-2. Easier to spot bugs
-3. Saves time
+1. Reduced number of lines of code.
+2. Easier to spot bugs.
+3. Saves time.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-1. Backtrack
-2. Helpful for colleaugues to better understand the changes made
-3. Always make changes without having to recreate the content
+1. Backtrack.
+2. Helpful for colleaugues to better understand the changes made.
+3. Always make changes without having to recreate the content.
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 Pros-
-1. Prevents cluttering of history
-2. Gives you the flexibility of choosing when to commit
-3. You can commit only when there is a logical change
+1. Prevents cluttering of history.
+2. Gives you the flexibility of choosing when to commit.
+3. You can commit only when there is a logical change.
 Cons-
-1. Time consuming
-2. Difficult when you forget to commit
+1. Time consuming.
+2. Difficult when you forget to commit.
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-1. Enhance file inter-relatibility
-2. Avoids multiple commits
+1. Enhance file inter-relatibility.
+2. Avoids multiple commits.
 
 How can you use the commands git log and git diff to view the history of files?
 1. git log lists all the commits with the commit id, author
@@ -30,7 +30,7 @@ version to the new version.
 How might using version control make you more confident to make changes that could break something?
 1. Go back to previous commits by using git checkout since
 it saves the previous commits as well. 
-2. By saving older versions, we can actually backtrack 
+2. By saving older versions, we can actually backtrack.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 1. My workspace is version-control/reflections. 
