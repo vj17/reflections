@@ -3,5 +3,10 @@ When would you want to use a remote repository rather than keeping all your work
 2. Share code.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-1. Let's me choose the relevant commits I want to pull.
+1. Lets me choose the relevant commits I want to pull.
 2. Is flexible.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+1. Fork- clone a repository on github from github.
+2. Clone- clone a repository from github to your computer, a repository to and fro in a computer.
+3. Branch- add a branch to github or on your computer.
