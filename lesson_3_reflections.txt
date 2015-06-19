@@ -14,3 +14,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 1. Having a copy of origin/master is useful at the time of merges during collaborations.
 2. Merging the master from github automatically refers to origin/master and is not lost trying to find out who her parent is.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+1. Through emails or cloud storage.
+2. However, git and github are way easier to keep track of changes and ask for opinions from collaborators on the go!
